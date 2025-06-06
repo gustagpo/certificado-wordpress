@@ -1,10 +1,499 @@
 [
     {
-        "nome": "Fulano de Tal Peixoto da Silva",
-        "cpf": "00057709122"
+        "nome": "Gustavo Peixoto",
+        "cpf": "00057709122",
+        "Endereço de E-mail": "felipe.dasilva@goias.gov.br",
+        "Telefone Contato Celular": "61 99337-6654",
+        "Informe seu cargo": "Outro"
     },
     {
-        "nome": "Beltrano da Silva",
-        "cpf": "98765432109"
+        "nome": "Felipe da Silva",
+        "cpf": "03821842113",
+        "Endereço de E-mail": "felipe.dasilva@goias.gov.br",
+        "Telefone Contato Celular": "61 99337-6654",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Lorena Faleiro Mendonça Silva",
+        "cpf": "05043955139",
+        "Endereço de E-mail": "lorenafaleiro@hotmail.com",
+        "Telefone Contato Celular": "(62) 996682851",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "GIOVANNI SPINDULA THOMAZ",
+        "cpf": "17211638249",
+        "Endereço de E-mail": "ipresasantanapa@hotmail.com",
+        "Telefone Contato Celular": "94 98442-3892",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "Deuzangela Aparecida de Assis",
+        "cpf": "Deuzangela Aparecida de Assis",
+        "Endereço de E-mail": "deuzangelaassis@hotmail.com",
+        "Telefone Contato Celular": "64 99444-4513",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "Bruno Marques Silva",
+        "cpf": "03698649136",
+        "Endereço de E-mail": "Brunomarques1992@hotmail.com; financeirocacuprev@gmail.com",
+        "Telefone Contato Celular": "64 98147-4269",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "AdrianaVieira da Silva",
+        "cpf": "46697489120",
+        "Endereço de E-mail": "vyeyra@yahoo.com.br",
+        "Telefone Contato Celular": "64 98151-6053",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "MAYARA MEIRELES RODRIGUES",
+        "cpf": "01959555103",
+        "Endereço de E-mail": "mayarameirelesadv@gmail.com",
+        "Telefone Contato Celular": "61 99611-9545",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "ALICE CANDIDO CARVALHO BARBOSA",
+        "cpf": "00929068181",
+        "Endereço de E-mail": "piresprev01@gmail.com",
+        "Telefone Contato Celular": "64 99264-3365",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "EMERSON MARTINS CARDOSO",
+        "cpf": "82726094104",
+        "Endereço de E-mail": "ipam@morrinhos.go.gov.br",
+        "Telefone Contato Celular": "64 99982-1101",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "NEUZELIA PEDRO SANTANA DOS SANTOS",
+        "cpf": "85887110104",
+        "Endereço de E-mail": "neuzeliapss@gmail.com",
+        "Telefone Contato Celular": "62 98422-0525",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "José Maria Felipe Brazão Mendes",
+        "cpf": "17699320204",
+        "Endereço de E-mail": "josemariafelipe65@gmail.com",
+        "Telefone Contato Celular": "63 98420-6258",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "EDCARLOS OLIVEIRA",
+        "cpf": "73250155187",
+        "Endereço de E-mail": "edcarlosoliveira86@gmail.com",
+        "Telefone Contato Celular": "62 98487-7175",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "DALETH SOUSA CRISOSTOMO SANTOS",
+        "cpf": "04715758105",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 99929-8358",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Carine Braz Barbosa Monteiro",
+        "cpf": "02176600100",
+        "Endereço de E-mail": "vianopolisprevrpps@gmail.com",
+        "Telefone Contato Celular": "62 98481-0947",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "JOELMA ARAÚJO SOARES SILVA",
+        "cpf": "49893378168",
+        "Endereço de E-mail": "iclajoice@hotmail.com",
+        "Telefone Contato Celular": "62 99669-8632",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "Márcio Afonso Miranda",
+        "cpf": "85083429187",
+        "Endereço de E-mail": "marcio.afonso@hotmail.com",
+        "Telefone Contato Celular": "64 98457-5580",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "CREONICE MOREIRA DA SILVA",
+        "cpf": "82914397100",
+        "Endereço de E-mail": "creomoreira01@hotmail.com",
+        "Telefone Contato Celular": "61 99693-2729",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Júlio César Gurgel Rabelo",
+        "cpf": "91012236153",
+        "Endereço de E-mail": "formosaprev@gmail.com",
+        "Telefone Contato Celular": "61 98252-7221",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "TAÍNE REZENDE DIAS CUNHA",
+        "cpf": "92963846134",
+        "Endereço de E-mail": "tainerd@hotmail.com",
+        "Telefone Contato Celular": "64 99278-9538",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "Iris Alves Câmara Rodrigues Nunes",
+        "cpf": "79501524191",
+        "Endereço de E-mail": "irisacn@gmail.com",
+        "Telefone Contato Celular": "64 99240-7217",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "Márcia Gomes da Cruz",
+        "cpf": "71995935115",
+        "Endereço de E-mail": "marciagomescruz@homtail.com",
+        "Telefone Contato Celular": "(61) 99433-2839",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "SIMONE COSTA SILVA TOLENTINO",
+        "cpf": "63345676168",
+        "Endereço de E-mail": "araguaia-prev@hotmail.com",
+        "Telefone Contato Celular": "62 99605-3530",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "EDILSON ATAIDES DA SILVA",
+        "cpf": "00916766144",
+        "Endereço de E-mail": "edilson_ataides@hotmail.com",
+        "Telefone Contato Celular": "62 99958-0873",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "JOELDIS CHAVES DA SILVA",
+        "cpf": "56699638149",
+        "Endereço de E-mail": "joeldischaves@hotmail.com",
+        "Telefone Contato Celular": "64 99645-2343",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Roney Lustosa de Freitas",
+        "cpf": "01660000351",
+        "Endereço de E-mail": "roneylustosa@gmail.com",
+        "Telefone Contato Celular": "63 98463-7616",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "Daniela Cantuares da Silva",
+        "cpf": "",
+        "Endereço de E-mail": "Danny.cantuares@outlook.com",
+        "Telefone Contato Celular": "61 99120-7427",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Fernando Venâncio Machado",
+        "cpf": "59764546153",
+        "Endereço de E-mail": "fernando.machado@goias.gov.br",
+        "Telefone Contato Celular": "62 99192-7933",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Viviane Flávia Silva",
+        "cpf": "94847355172",
+        "Endereço de E-mail": "vivianeflavia.adm@gmail.com",
+        "Telefone Contato Celular": "62 99902-5265",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "ITAMAR AGUIAR DE SOUSA",
+        "cpf": "44887639287",
+        "Endereço de E-mail": "ipresasantanapa@hotmail.com",
+        "Telefone Contato Celular": "94 98442-3892",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "Lara Patrícia Guimarães",
+        "cpf": "89390571120",
+        "Endereço de E-mail": "laduda_6@hotmail.com; financeirocacuprev@gmail.com",
+        "Telefone Contato Celular": "64 99303-0085",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "Leila Costa do Carmo",
+        "cpf": "28804708620",
+        "Endereço de E-mail": "leilacostadocarmo@iCloud.com",
+        "Telefone Contato Celular": "64 98131-0439",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "MICHELE PESSOA PAIVA",
+        "cpf": "79977537100",
+        "Endereço de E-mail": "michelepaiva13@gmail.com",
+        "Telefone Contato Celular": "61 99992-9192",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "LUIZ CARLOS DA SILVA",
+        "cpf": "00521746116",
+        "Endereço de E-mail": "tecluizcarlos.silva@gmail.com",
+        "Telefone Contato Celular": "62 98419-8430",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "CARMELITA VIEIRA MARTINS",
+        "cpf": "96764503168",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 99679-4508",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "RENATA MOREIRA DOS SANTOS",
+        "cpf": "95491732168",
+        "Endereço de E-mail": "renatinhaburitinopolis@outlook.com",
+        "Telefone Contato Celular": "62 99635-9668",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "ELIANE GONÇALVES MONTEIRO FERREIRA",
+        "cpf": "97425290197",
+        "Endereço de E-mail": "elianinhaferreira01@gmail.com",
+        "Telefone Contato Celular": "61 99908-6005",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Adriana Alves de Sousa",
+        "cpf": "86500880153",
+        "Endereço de E-mail": "formosaprev@gmail.com",
+        "Telefone Contato Celular": "61 99823-3698",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "GERUSA TAVARES DE OLIVEIRA",
+        "cpf": "04601547610",
+        "Endereço de E-mail": "gerusatavaresoliveira42@gmail.com",
+        "Telefone Contato Celular": "64 99265-9120",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Francisco das Chagas Moreira do Nascimento",
+        "cpf": " 69216517115",
+        "Endereço de E-mail": "chagas.prof12@gmail.com",
+        "Telefone Contato Celular": "(61) 99692-5048",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "JONI MAICON SIQUEIRA GUFKA",
+        "cpf": "01606741071",
+        "Endereço de E-mail": "jonimaicon@hotmail.com",
+        "Telefone Contato Celular": "64 99962-9782",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "Ester Ferreira Xavier",
+        "cpf": "",
+        "Endereço de E-mail": "esterfxavi@gmail.com",
+        "Telefone Contato Celular": "61 99652-1641",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "José Antônio Capparelli Vieira Borges",
+        "cpf": "22472720106",
+        "Endereço de E-mail": "jose.capparelli@goias.gov.br",
+        "Telefone Contato Celular": "61 99987-6567",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Marcia Helena Soares de Castro",
+        "cpf": "29497337191",
+        "Endereço de E-mail": "marciahelena46790@gmail.com",
+        "Telefone Contato Celular": "62 99637-6208",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "ANDRE ALVES PEREIRA",
+        "cpf": "70578400200",
+        "Endereço de E-mail": "ipresasantanapa@hotmail.com",
+        "Telefone Contato Celular": "94 98442-3892",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Sílvio José Legramandi",
+        "cpf": "08292350861",
+        "Endereço de E-mail": "financeirocacuprev@gmail.com",
+        "Telefone Contato Celular": "64 98421-8135",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Mônica Aparecida Santos",
+        "cpf": "77683277134",
+        "Endereço de E-mail": "monicasantoscd@hotmail.com",
+        "Telefone Contato Celular": "64 99992-2141",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "KENIA MARA FERREIRA MATOS",
+        "cpf": "90333349172",
+        "Endereço de E-mail": "keniafmatos@gmail.com",
+        "Telefone Contato Celular": "61 98141-6716",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "ALESSANDRA CAETANO DOS SANTOS",
+        "cpf": "95769617187",
+        "Endereço de E-mail": "caetanoalessandra2112@gmail.com",
+        "Telefone Contato Celular": "62 98589-8023",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "CARLOSM SILVERIO RIBEIRO",
+        "cpf": "94336474168",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 99642-8544",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "JACSON SILVA ALMEIDA",
+        "cpf": "01752196139",
+        "Endereço de E-mail": "administracao@buritinopolis.go.gov.br",
+        "Telefone Contato Celular": "62 99637-4398",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Roberta Melbe Spindula e Silva",
+        "cpf": "97778990172",
+        "Endereço de E-mail": "formosaprev@gmail .com",
+        "Telefone Contato Celular": "61 99654-4348",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Rudilene Alves de Farias Nobre",
+        "cpf": "57901961104",
+        "Endereço de E-mail": "professorarudilenenobre@gmail.com",
+        "Telefone Contato Celular": "(61) 99648-3703",
+        "Informe seu cargo": "Dirigente do órgão ou entidade gestora do RPPS"
+    },
+    {
+        "nome": "SANDRA ELOISA CARDOSO",
+        "cpf": "92171672153",
+        "Endereço de E-mail": "sandraelo2000@gmail.com",
+        "Telefone Contato Celular": "64 99906-2012",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Mônica Maria Aguiar Barbosa",
+        "cpf": "",
+        "Endereço de E-mail": "monicamabarbosa@gmail.com",
+        "Telefone Contato Celular": "61 99218-9456",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Juliana Salgado Quintans",
+        "cpf": "08560273409",
+        "Endereço de E-mail": "juliana.quintans@goias.gov.br",
+        "Telefone Contato Celular": "81 99727-1380",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "CARLOS HENRIQUE PEREIRA",
+        "cpf": "90312422172",
+        "Endereço de E-mail": "carlosinformabol@gmail.com",
+        "Telefone Contato Celular": "61 99828-2545",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "DHIEGO AUGUSTO GONÇALVES VILELA CASSIMIRO",
+        "cpf": "02952657106",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "62 98212-3363",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "VALQUIRA PEREIRA CANGUÇU",
+        "cpf": "98162225153",
+        "Endereço de E-mail": "valquira.pereira@hotmail.com",
+        "Telefone Contato Celular": "62 99678-4362",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Jessica Aparecida Silva Ribeiro",
+        "cpf": "02259655181",
+        "Endereço de E-mail": "jessik.ribeiro@hotmail.com",
+        "Telefone Contato Celular": "61 99833-6161",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "Luiz Henrique de Souza Rodrigues",
+        "cpf": "",
+        "Endereço de E-mail": "henriquesax2011@gmail.com",
+        "Telefone Contato Celular": "61 99242-3406",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "Leonardo Lúcio Barbosa Ferreira",
+        "cpf": "22708707191",
+        "Endereço de E-mail": "leonardo.bferreira@goias.gov.br",
+        "Telefone Contato Celular": "61 98176-0061",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "CINARA MEIRELES",
+        "cpf": "58664920168",
+        "Endereço de E-mail": "cimeireles@hotmail.com",
+        "Telefone Contato Celular": "61 98274-6361",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "GISLENE GOMES GUIMARAES",
+        "cpf": "03240919150",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 99630-3453",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "Roberta Grazielle Roque Crispim",
+        "cpf": "97163929153",
+        "Endereço de E-mail": "roberta.rcrispim@goias.gov.br",
+        "Telefone Contato Celular": "62 98117-2377",
+        "Informe seu cargo": "Outro"
+    },
+    {
+        "nome": "MARIA TEREZA REIS GONÇALVES",
+        "cpf": "70164223134",
+        "Endereço de E-mail": "tetereis1@gmail.com",
+        "Telefone Contato Celular": "61 99976-5493",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "MARINA ANGELICA MARCA",
+        "cpf": "01503044122",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 98462-2906",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "THAYNÁ CORDEIRO DA SILVA",
+        "cpf": "11466060603",
+        "Endereço de E-mail": "cordeirothaynaa@gmail.com",
+        "Telefone Contato Celular": "61 99638-2205",
+        "Informe seu cargo": "Membro do Comitê de Investimentos/ Gestor de Recursos"
+    },
+    {
+        "nome": "GEYCE AIRES FARIAS",
+        "cpf": "04164795107",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 98457-9182",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "DANILO FRANCISCO DA SILVA",
+        "cpf": "05318198171",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 99640-2556",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
+    },
+    {
+        "nome": "VANDERLUIZ DIAS MATOS",
+        "cpf": "54570581153",
+        "Endereço de E-mail": "PREVINX.NX@GMAIL.COM",
+        "Telefone Contato Celular": "66 99202-4715",
+        "Informe seu cargo": "Membro do Conselho Fiscal/ Deliberativo"
     }
 ]
